@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min første app</string>
+    <string name="edit_message">Skriv noe</string>
+    <string name="button_send">Send</string>
+    <string name="button_showMessage">Vis melding</string>
+    <string name="messageToShow">Vil du se noe kult?</string>
+    <string name="button_response_no">Nei!</string>
+    <string name="button_response_yes">Ja!!</string>
+    <string name="response_hah_gay">Hah! Gaaaaaaay!!</string>
+    <string name="time_is">Klokka er: </string>
+    <string name="change_text">Teksten har blitt endret</string>
+</resources>

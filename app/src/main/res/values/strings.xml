@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_showMessage">Show message</string>
+    <string name="messageToShow">Want to see something cool?</string>
+    <string name="button_response_no">No!</string>
+    <string name="button_response_yes">Yes!</string>
+    <string name="response_hah_gay">Hah! Gaaaaaaay!!</string>
+    <string name="time_is">The time is currently: </string>
+    <string name="change_text">The text have been changed</string>
+</resources>
